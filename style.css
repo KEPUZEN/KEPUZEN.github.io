@@ -102,6 +102,7 @@ nav ul li a:hover:after {
   -webkit-text-fill-color: transparent;
 }
 .profile-pictur {
+  height: 350px;
   border-radius: 50%;
 
 }
